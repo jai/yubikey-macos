@@ -15,4 +15,4 @@ Test to ensure that smart card login works (log out, and try to log in with Yubi
 
 ### Disable password (enforce smart card-only login)
 
-Configure macOS for smartcard-only authentication: [https://support.apple.com/en-us/HT208372](https://support.apple.com/en-us/HT208372) by installing this profile:
+Configure macOS for smartcard-only authentication: [https://support.apple.com/en-us/HT208372](https://support.apple.com/en-us/HT208372) by installing this the latest version of the profile from this repository: [https://github.com/jai/yubikey-macos](https://github.com/jai/yubikey-macos)
